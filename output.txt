@@ -1,0 +1,840 @@
+   10/24/2022 10/25/2022 10/26/2022  ... 12/11/2022 12/12/2022 12/13/2022
+1        0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+2        0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+3        0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+4        0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+5        0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+6        0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+7      152 mg       0 mg     152 mg  ...       0 mg       0 mg       0 mg
+8        0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+9        0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+10       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+11       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+12       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+13       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+14       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+15       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+16       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+17       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+18       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+19       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+20       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+21       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+22       0 mg       0 mg       0 mg  ...       0 mg       0 mg       0 mg
+23    3 Hours    0 Hours    6 Hours  ...        NaN        NaN        NaN
+24        152          0        152  ...       0 mg       0 mg       0 mg
+
+[24 rows x 51 columns]
+   Unnamed: 2 Unnamed: 3 Unnamed: 4  ... Unnamed: 14 Unnamed: 15 Unnamed: 16
+54   10/24/22   10/25/22   10/26/22  ...     11/5/22     11/6/22     11/7/22
+55      34 °F      39 °F      40 °F  ...       38 °F       32 °F       32 °F
+56      36 °F      40 °F      39 °F  ...       37 °F       32 °F       33 °F
+57      37 °F      39 °F      38 °F  ...       37 °F       32 °F       34 °F
+58      37 °F      39 °F      38 °F  ...       37 °F       32 °F       34 °F
+59      39 °F      40 °F      39 °F  ...       40 °F       33 °F       34 °F
+60      37 °F      43 °F      40 °F  ...       41 °F       35 °F       35 °F
+61      35 °F      44 °F      40 °F  ...       42 °F       37 °F       38 °F
+62      34 °F      46 °F      42 °F  ...       42 °F       38 °F       41 °F
+63      35 °F      46 °F      44 °F  ...       41 °F       41 °F       41 °F
+64      37 °F      46 °F      43 °F  ...       40 °F       43 °F       39 °F
+65      38 °F      48 °F      44 °F  ...       41 °F       43 °F       40 °F
+66      39 °F      48 °F      45 °F  ...       39 °F       41 °F       38 °F
+67      38 °F      46 °F      44 °F  ...       37 °F       39 °F       36 °F
+68      44 °F      44 °F      43 °F  ...       36 °F       36 °F       35 °F
+69      44 °F      43 °F      42 °F  ...       36 °F       37 °F       34 °F
+70      44 °F      43 °F      41 °F  ...       36 °F       38 °F       34 °F
+71      43 °F      42 °F      39 °F  ...       34 °F       38 °F       33 °F
+72      42 °F      41 °F      40 °F  ...       34 °F       39 °F       33 °F
+73      42 °F      40 °F      38 °F  ...       33 °F       39 °F       33 °F
+74      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+75      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+76      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+
+[23 rows x 15 columns]
+       Unnamed: 2     Unnamed: 3  ...            Unnamed: 15    Unnamed: 16
+55           Fair  Mostly Cloudy  ...                   Fair     Light Snow
+56  Mostly Cloudy         Cloudy  ...                   Fair     Light Rain
+57         Cloudy  Mostly Cloudy  ...                   Fair     Wintry Mix
+58         Cloudy  Partly Cloudy  ...                   Fair         Cloudy
+59     Light Rain  Mostly Cloudy  ...           Fair / Windy         Cloudy
+60     Light Rain  Mostly Cloudy  ...  Partly Cloudy / Windy  Partly Cloudy
+61     Light Rain         Cloudy  ...                   Fair           Fair
+62     Light Snow  Mostly Cloudy  ...                   Fair           Fair
+63     Light Rain           Fair  ...           Fair / Windy  Partly Cloudy
+64     Light Rain         Cloudy  ...                   Fair           Fair
+65     Light Rain         Cloudy  ...                   Fair  Mostly Cloudy
+66         Cloudy  Partly Cloudy  ...                   Fair         Cloudy
+67         Cloudy  Partly Cloudy  ...          Partly Cloudy  Mostly Cloudy
+68         Cloudy         Cloudy  ...                   Fair  Mostly Cloudy
+69     Light Rain           Fair  ...          Mostly Cloudy           Fair
+70         Cloudy         Cloudy  ...          Mostly Cloudy  Mostly Cloudy
+71           Fair         Cloudy  ...  Partly Cloudy / Windy  Mostly Cloudy
+72           Fair         Cloudy  ...                 Cloudy           Fair
+73     Light Rain         Cloudy  ...                   Fair  Partly Cloudy
+74  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+75  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+76  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+
+[22 rows x 15 columns]
+15
+   10/24/2022 10/25/2022 10/26/2022  ... 12/11/2022 12/12/2022 12/13/2022
+1        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+2        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+3        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+4        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+5        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+6      200 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+7        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+8        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+9        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+10       0 mg       0 mg     100 mg  ...       0 mg       0 mg        NaN
+11       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+12       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+13       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+14       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+15       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+16       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+17       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+18       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+19       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+20       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+21       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+22       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+23    6 Hours    2 Hours    4 Hours  ...    0 Hours    0 Hours        NaN
+24        200          0        100  ...       0 mg       0 mg        NaN
+25        NaN        NaN        NaN  ...        NaN        NaN        NaN
+
+[25 rows x 51 columns]
+   Unnamed: 2 Unnamed: 3 Unnamed: 4  ... Unnamed: 14 Unnamed: 15 Unnamed: 16
+54   10/24/22   10/25/22   10/26/22  ...     11/5/22     11/6/22     11/7/22
+55      34 °F      39 °F      40 °F  ...       38 °F       32 °F       32 °F
+56      36 °F      40 °F      39 °F  ...       37 °F       32 °F       33 °F
+57      37 °F      39 °F      38 °F  ...       37 °F       32 °F       34 °F
+58      37 °F      39 °F      38 °F  ...       37 °F       32 °F       34 °F
+59      39 °F      40 °F      39 °F  ...       40 °F       33 °F       34 °F
+60      37 °F      43 °F      40 °F  ...       41 °F       35 °F       35 °F
+61      35 °F      44 °F      40 °F  ...       42 °F       37 °F       38 °F
+62      34 °F      46 °F      42 °F  ...       42 °F       38 °F       41 °F
+63      35 °F      46 °F      44 °F  ...       41 °F       41 °F       41 °F
+64      37 °F      46 °F      43 °F  ...       40 °F       43 °F       39 °F
+65      38 °F      48 °F      44 °F  ...       41 °F       43 °F       40 °F
+66      39 °F      48 °F      45 °F  ...       39 °F       41 °F       38 °F
+67      38 °F      46 °F      44 °F  ...       37 °F       39 °F       36 °F
+68      44 °F      44 °F      43 °F  ...       36 °F       36 °F       35 °F
+69      44 °F      43 °F      42 °F  ...       36 °F       37 °F       34 °F
+70      44 °F      43 °F      41 °F  ...       36 °F       38 °F       34 °F
+71      43 °F      42 °F      39 °F  ...       34 °F       38 °F       33 °F
+72      42 °F      41 °F      40 °F  ...       34 °F       39 °F       33 °F
+73      42 °F      40 °F      38 °F  ...       33 °F       39 °F       33 °F
+74      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+75      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+76      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+
+[23 rows x 15 columns]
+       Unnamed: 2     Unnamed: 3  ...            Unnamed: 15    Unnamed: 16
+55           Fair  Mostly Cloudy  ...                   Fair     Light Snow
+56  Mostly Cloudy         Cloudy  ...                   Fair     Light Rain
+57         Cloudy  Mostly Cloudy  ...                   Fair     Wintry Mix
+58         Cloudy  Partly Cloudy  ...                   Fair         Cloudy
+59     Light Rain  Mostly Cloudy  ...           Fair / Windy         Cloudy
+60     Light Rain  Mostly Cloudy  ...  Partly Cloudy / Windy  Partly Cloudy
+61     Light Rain         Cloudy  ...                   Fair           Fair
+62     Light Snow  Mostly Cloudy  ...                   Fair           Fair
+63     Light Rain           Fair  ...           Fair / Windy  Partly Cloudy
+64     Light Rain         Cloudy  ...                   Fair           Fair
+65     Light Rain         Cloudy  ...                   Fair  Mostly Cloudy
+66         Cloudy  Partly Cloudy  ...                   Fair         Cloudy
+67         Cloudy  Partly Cloudy  ...          Partly Cloudy  Mostly Cloudy
+68         Cloudy         Cloudy  ...                   Fair  Mostly Cloudy
+69     Light Rain           Fair  ...          Mostly Cloudy           Fair
+70         Cloudy         Cloudy  ...          Mostly Cloudy  Mostly Cloudy
+71           Fair         Cloudy  ...  Partly Cloudy / Windy  Mostly Cloudy
+72           Fair         Cloudy  ...                 Cloudy           Fair
+73     Light Rain         Cloudy  ...                   Fair  Partly Cloudy
+74  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+75  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+76  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+
+[22 rows x 15 columns]
+15
+   10/24/2022 10/25/2022 10/26/2022  ... 12/11/2022 12/12/2022 12/13/2022
+1        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+2      250 mg     250 mg     200 mg  ...       0 mg       0 mg        NaN
+3      250 mg       0 mg     200 mg  ...       0 mg       0 mg        NaN
+4        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+5        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+6        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+7        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+8        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+9        0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+10       0 mg      64 mg       0 mg  ...       0 mg       0 mg        NaN
+11       0 mg       0 mg     125 mg  ...       0 mg       0 mg        NaN
+12       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+13       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+14       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+15       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+16       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+17       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+18       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+19       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+20       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+21       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+22       0 mg       0 mg       0 mg  ...       0 mg       0 mg        NaN
+
+[22 rows x 51 columns]
+   Unnamed: 2 Unnamed: 3 Unnamed: 4  ... Unnamed: 14 Unnamed: 15 Unnamed: 16
+54   10/24/22   10/25/22   10/26/22  ...     11/5/22     11/6/22     11/7/22
+55      34 °F      39 °F      40 °F  ...       38 °F       32 °F       32 °F
+56      36 °F      40 °F      39 °F  ...       37 °F       32 °F       33 °F
+57      37 °F      39 °F      38 °F  ...       37 °F       32 °F       34 °F
+58      37 °F      39 °F      38 °F  ...       37 °F       32 °F       34 °F
+59      39 °F      40 °F      39 °F  ...       40 °F       33 °F       34 °F
+60      37 °F      43 °F      40 °F  ...       41 °F       35 °F       35 °F
+61      35 °F      44 °F      40 °F  ...       42 °F       37 °F       38 °F
+62      34 °F      46 °F      42 °F  ...       42 °F       38 °F       41 °F
+63      35 °F      46 °F      44 °F  ...       41 °F       41 °F       41 °F
+64      37 °F      46 °F      43 °F  ...       40 °F       43 °F       39 °F
+65      38 °F      48 °F      44 °F  ...       41 °F       43 °F       40 °F
+66      39 °F      48 °F      45 °F  ...       39 °F       41 °F       38 °F
+67      38 °F      46 °F      44 °F  ...       37 °F       39 °F       36 °F
+68      44 °F      44 °F      43 °F  ...       36 °F       36 °F       35 °F
+69      44 °F      43 °F      42 °F  ...       36 °F       37 °F       34 °F
+70      44 °F      43 °F      41 °F  ...       36 °F       38 °F       34 °F
+71      43 °F      42 °F      39 °F  ...       34 °F       38 °F       33 °F
+72      42 °F      41 °F      40 °F  ...       34 °F       39 °F       33 °F
+73      42 °F      40 °F      38 °F  ...       33 °F       39 °F       33 °F
+74      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+75      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+76      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+
+[23 rows x 15 columns]
+       Unnamed: 2     Unnamed: 3  ...            Unnamed: 15    Unnamed: 16
+55           Fair  Mostly Cloudy  ...                   Fair     Light Snow
+56  Mostly Cloudy         Cloudy  ...                   Fair     Light Rain
+57         Cloudy  Mostly Cloudy  ...                   Fair     Wintry Mix
+58         Cloudy  Partly Cloudy  ...                   Fair         Cloudy
+59     Light Rain  Mostly Cloudy  ...           Fair / Windy         Cloudy
+60     Light Rain  Mostly Cloudy  ...  Partly Cloudy / Windy  Partly Cloudy
+61     Light Rain         Cloudy  ...                   Fair           Fair
+62     Light Snow  Mostly Cloudy  ...                   Fair           Fair
+63     Light Rain           Fair  ...           Fair / Windy  Partly Cloudy
+64     Light Rain         Cloudy  ...                   Fair           Fair
+65     Light Rain         Cloudy  ...                   Fair  Mostly Cloudy
+66         Cloudy  Partly Cloudy  ...                   Fair         Cloudy
+67         Cloudy  Partly Cloudy  ...          Partly Cloudy  Mostly Cloudy
+68         Cloudy         Cloudy  ...                   Fair  Mostly Cloudy
+69     Light Rain           Fair  ...          Mostly Cloudy           Fair
+70         Cloudy         Cloudy  ...          Mostly Cloudy  Mostly Cloudy
+71           Fair         Cloudy  ...  Partly Cloudy / Windy  Mostly Cloudy
+72           Fair         Cloudy  ...                 Cloudy           Fair
+73     Light Rain         Cloudy  ...                   Fair  Partly Cloudy
+74  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+75  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+76  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+
+[22 rows x 15 columns]
+15
+   10/24/2022 10/25/2022 10/26/2022  ... 12/11/2022 12/12/2022 12/13/2022
+1        0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+2        0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+3        0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+4        0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+5        0 mg     125.00       0 mg  ...        NaN        NaN        NaN
+6        0 mg     125.00       0 mg  ...        NaN        NaN        NaN
+7      120 mg       0.00     125 mg  ...        NaN        NaN        NaN
+8        0 mg       0.00     125 mg  ...        NaN        NaN        NaN
+9        0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+10       0 mg     120.00       0 mg  ...        NaN        NaN        NaN
+11       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+12       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+13       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+14     120 mg       0.00     120 mg  ...        NaN        NaN        NaN
+15       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+16       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+17       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+18       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+19       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+20       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+21       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+22       0 mg       0.00       0 mg  ...        NaN        NaN        NaN
+
+[22 rows x 51 columns]
+   Unnamed: 2 Unnamed: 3 Unnamed: 4  ... Unnamed: 14 Unnamed: 15 Unnamed: 16
+54   10/24/22   10/25/22   10/26/22  ...     11/5/22     11/6/22     11/7/22
+55      34 °F      39 °F      40 °F  ...       38 °F       32 °F       32 °F
+56      36 °F      40 °F      39 °F  ...       37 °F       32 °F       33 °F
+57      37 °F      39 °F      38 °F  ...       37 °F       32 °F       34 °F
+58      37 °F      39 °F      38 °F  ...       37 °F       32 °F       34 °F
+59      39 °F      40 °F      39 °F  ...       40 °F       33 °F       34 °F
+60      37 °F      43 °F      40 °F  ...       41 °F       35 °F       35 °F
+61      35 °F      44 °F      40 °F  ...       42 °F       37 °F       38 °F
+62      34 °F      46 °F      42 °F  ...       42 °F       38 °F       41 °F
+63      35 °F      46 °F      44 °F  ...       41 °F       41 °F       41 °F
+64      37 °F      46 °F      43 °F  ...       40 °F       43 °F       39 °F
+65      38 °F      48 °F      44 °F  ...       41 °F       43 °F       40 °F
+66      39 °F      48 °F      45 °F  ...       39 °F       41 °F       38 °F
+67      38 °F      46 °F      44 °F  ...       37 °F       39 °F       36 °F
+68      44 °F      44 °F      43 °F  ...       36 °F       36 °F       35 °F
+69      44 °F      43 °F      42 °F  ...       36 °F       37 °F       34 °F
+70      44 °F      43 °F      41 °F  ...       36 °F       38 °F       34 °F
+71      43 °F      42 °F      39 °F  ...       34 °F       38 °F       33 °F
+72      42 °F      41 °F      40 °F  ...       34 °F       39 °F       33 °F
+73      42 °F      40 °F      38 °F  ...       33 °F       39 °F       33 °F
+74      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+75      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+76      42 °F      40 °F      35 °F  ...       33 °F       39 °F       32 °F
+
+[23 rows x 15 columns]
+       Unnamed: 2     Unnamed: 3  ...            Unnamed: 15    Unnamed: 16
+55           Fair  Mostly Cloudy  ...                   Fair     Light Snow
+56  Mostly Cloudy         Cloudy  ...                   Fair     Light Rain
+57         Cloudy  Mostly Cloudy  ...                   Fair     Wintry Mix
+58         Cloudy  Partly Cloudy  ...                   Fair         Cloudy
+59     Light Rain  Mostly Cloudy  ...           Fair / Windy         Cloudy
+60     Light Rain  Mostly Cloudy  ...  Partly Cloudy / Windy  Partly Cloudy
+61     Light Rain         Cloudy  ...                   Fair           Fair
+62     Light Snow  Mostly Cloudy  ...                   Fair           Fair
+63     Light Rain           Fair  ...           Fair / Windy  Partly Cloudy
+64     Light Rain         Cloudy  ...                   Fair           Fair
+65     Light Rain         Cloudy  ...                   Fair  Mostly Cloudy
+66         Cloudy  Partly Cloudy  ...                   Fair         Cloudy
+67         Cloudy  Partly Cloudy  ...          Partly Cloudy  Mostly Cloudy
+68         Cloudy         Cloudy  ...                   Fair  Mostly Cloudy
+69     Light Rain           Fair  ...          Mostly Cloudy           Fair
+70         Cloudy         Cloudy  ...          Mostly Cloudy  Mostly Cloudy
+71           Fair         Cloudy  ...  Partly Cloudy / Windy  Mostly Cloudy
+72           Fair         Cloudy  ...                 Cloudy           Fair
+73     Light Rain         Cloudy  ...                   Fair  Partly Cloudy
+74  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+75  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+76  Partly Cloudy     Light Rain  ...                 Cloudy           Fair
+
+[22 rows x 15 columns]
+15
+15
+21
+00:00 AM
+2022-10-24 00:00:00
+Average Temp: 35.0
+Average Caffeine: 152.0
+Average Condition: 0
+Average Windy: 0
+
+
+152
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	34	0	0	False
+1900-01-01 06:00:00	36	0	0	False
+1900-01-01 07:00:00	37	0	0	False
+1900-01-01 08:00:00	37	0	0	False
+1900-01-01 09:00:00	39	0	0	False
+1900-01-01 10:00:00	37	0	0	False
+1900-01-01 11:00:00	35	152	0	False
+1900-01-01 12:00:00	34	0	0	False
+1900-01-01 13:00:00	35	0	0	False
+1900-01-01 14:00:00	37	0	0	False
+1900-01-01 15:00:00	38	0	0	False
+1900-01-01 16:00:00	39	0	0	False
+1900-01-01 17:00:00	38	0	0	False
+1900-01-01 18:00:00	44	0	0	False
+1900-01-01 19:00:00	44	0	0	False
+1900-01-01 20:00:00	44	0	0	False
+1900-01-01 21:00:00	43	0	0	False
+1900-01-01 22:00:00	42	0	0	False
+1900-01-01 23:00:00	42	0	0	False
+1900-01-01 00:00:00	42	0	0	False
+1900-01-01 01:00:00	42	0	0	False
+
+
+
+00:00 AM
+2022-10-25 00:00:00
+Average Temp: nan
+Average Caffeine: nan
+Average Condition: 0
+Average Windy: 0
+
+
+0
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	39	0	0	False
+1900-01-01 06:00:00	40	0	0	False
+1900-01-01 07:00:00	39	0	0	False
+1900-01-01 08:00:00	39	0	0	False
+1900-01-01 09:00:00	40	0	0	False
+1900-01-01 10:00:00	43	0	0	False
+1900-01-01 11:00:00	44	0	0	False
+1900-01-01 12:00:00	46	0	0	False
+1900-01-01 13:00:00	46	0	0	False
+1900-01-01 14:00:00	46	0	0	False
+1900-01-01 15:00:00	48	0	0	False
+1900-01-01 16:00:00	48	0	0	False
+1900-01-01 17:00:00	46	0	0	False
+1900-01-01 18:00:00	44	0	0	False
+1900-01-01 19:00:00	43	0	0	False
+1900-01-01 20:00:00	43	0	0	False
+1900-01-01 21:00:00	42	0	0	False
+1900-01-01 22:00:00	41	0	0	False
+1900-01-01 23:00:00	40	0	0	False
+1900-01-01 00:00:00	40	0	0	False
+1900-01-01 01:00:00	40	0	0	False
+
+
+
+00:00 AM
+2022-10-26 00:00:00
+Average Temp: 40.0
+Average Caffeine: 152.0
+Average Condition: 0
+Average Windy: 0
+
+
+152
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	40	0	0	False
+1900-01-01 06:00:00	39	0	0	False
+1900-01-01 07:00:00	38	0	0	False
+1900-01-01 08:00:00	38	0	0	False
+1900-01-01 09:00:00	39	0	0	False
+1900-01-01 10:00:00	40	0	0	False
+1900-01-01 11:00:00	40	152	0	False
+1900-01-01 12:00:00	42	0	0	False
+1900-01-01 13:00:00	44	0	0	False
+1900-01-01 14:00:00	43	0	0	False
+1900-01-01 15:00:00	44	0	0	False
+1900-01-01 16:00:00	45	0	0	False
+1900-01-01 17:00:00	44	0	0	False
+1900-01-01 18:00:00	43	0	0	False
+1900-01-01 19:00:00	42	0	0	False
+1900-01-01 20:00:00	41	0	0	False
+1900-01-01 21:00:00	39	0	0	False
+1900-01-01 22:00:00	40	0	0	False
+1900-01-01 23:00:00	38	0	0	False
+1900-01-01 00:00:00	35	0	0	False
+1900-01-01 01:00:00	35	0	0	False
+
+
+
+00:00 AM
+2022-10-27 00:00:00
+Average Temp: nan
+Average Caffeine: nan
+Average Condition: 0
+Average Windy: 0
+
+
+0
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	34	0	0	False
+1900-01-01 06:00:00	35	0	0	False
+1900-01-01 07:00:00	33	0	0	False
+1900-01-01 08:00:00	33	0	0	False
+1900-01-01 09:00:00	35	0	0	False
+1900-01-01 10:00:00	39	0	0	False
+1900-01-01 11:00:00	43	0	0	False
+1900-01-01 12:00:00	46	0	0	False
+1900-01-01 13:00:00	48	0	0	False
+1900-01-01 14:00:00	49	0	0	False
+1900-01-01 15:00:00	50	0	0	False
+1900-01-01 16:00:00	50	0	0	False
+1900-01-01 17:00:00	49	0	0	False
+1900-01-01 18:00:00	45	0	0	False
+1900-01-01 19:00:00	42	0	0	False
+1900-01-01 20:00:00	43	0	0	False
+1900-01-01 21:00:00	41	0	0	False
+1900-01-01 22:00:00	40	0	0	False
+1900-01-01 23:00:00	44	0	0	False
+1900-01-01 00:00:00	44	0	0	False
+1900-01-01 01:00:00	44	0	0	False
+
+
+
+00:00 AM
+2022-10-28 00:00:00
+Average Temp: nan
+Average Caffeine: nan
+Average Condition: 0
+Average Windy: 0
+
+
+0
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	43	0	0	False
+1900-01-01 06:00:00	40	0	0	False
+1900-01-01 07:00:00	42	0	0	False
+1900-01-01 08:00:00	40	0	0	False
+1900-01-01 09:00:00	41	0	0	False
+1900-01-01 10:00:00	45	0	0	False
+1900-01-01 11:00:00	49	0	0	False
+1900-01-01 12:00:00	51	0	0	False
+1900-01-01 13:00:00	54	0	0	False
+1900-01-01 14:00:00	54	0	0	False
+1900-01-01 15:00:00	54	0	0	False
+1900-01-01 16:00:00	53	0	0	False
+1900-01-01 17:00:00	53	0	0	False
+1900-01-01 18:00:00	50	0	0	False
+1900-01-01 19:00:00	48	0	0	False
+1900-01-01 20:00:00	49	0	0	False
+1900-01-01 21:00:00	47	0	0	False
+1900-01-01 22:00:00	46	0	0	False
+1900-01-01 23:00:00	47	0	0	False
+1900-01-01 00:00:00	47	0	0	False
+1900-01-01 01:00:00	47	0	0	False
+
+
+
+00:00 AM
+2022-10-29 00:00:00
+Average Temp: 56.0
+Average Caffeine: 90.0
+Average Condition: 0
+Average Windy: 0
+
+
+90
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	45	0	0	False
+1900-01-01 06:00:00	44	0	0	False
+1900-01-01 07:00:00	44	0	0	False
+1900-01-01 08:00:00	44	0	0	False
+1900-01-01 09:00:00	46	0	0	False
+1900-01-01 10:00:00	48	0	0	False
+1900-01-01 11:00:00	50	0	0	False
+1900-01-01 12:00:00	52	0	0	False
+1900-01-01 13:00:00	53	0	0	False
+1900-01-01 14:00:00	56	90	0	False
+1900-01-01 15:00:00	56	0	0	False
+1900-01-01 16:00:00	56	0	0	False
+1900-01-01 17:00:00	53	0	0	False
+1900-01-01 18:00:00	48	0	0	False
+1900-01-01 19:00:00	43	0	0	False
+1900-01-01 20:00:00	43	0	0	False
+1900-01-01 21:00:00	42	0	0	False
+1900-01-01 22:00:00	41	0	0	False
+1900-01-01 23:00:00	42	0	0	False
+1900-01-01 00:00:00	42	0	0	False
+1900-01-01 01:00:00	42	0	0	False
+
+
+
+00:00 AM
+2022-10-30 00:00:00
+Average Temp: nan
+Average Caffeine: nan
+Average Condition: 0
+Average Windy: 0
+
+
+0
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	44	0	0	False
+1900-01-01 06:00:00	45	0	0	False
+1900-01-01 07:00:00	44	0	0	False
+1900-01-01 08:00:00	45	0	0	False
+1900-01-01 09:00:00	45	0	0	False
+1900-01-01 10:00:00	47	0	0	False
+1900-01-01 11:00:00	50	0	0	False
+1900-01-01 12:00:00	52	0	0	False
+1900-01-01 13:00:00	54	0	0	False
+1900-01-01 14:00:00	54	0	0	False
+1900-01-01 15:00:00	54	0	0	False
+1900-01-01 16:00:00	54	0	0	False
+1900-01-01 17:00:00	53	0	0	False
+1900-01-01 18:00:00	51	0	0	False
+1900-01-01 19:00:00	52	0	0	False
+1900-01-01 20:00:00	50	0	0	False
+1900-01-01 21:00:00	50	0	0	False
+1900-01-01 22:00:00	50	0	0	False
+1900-01-01 23:00:00	50	0	0	False
+1900-01-01 00:00:00	49	0	0	False
+1900-01-01 01:00:00	49	0	0	False
+
+
+
+00:00 AM
+2022-10-31 00:00:00
+Average Temp: 46.0
+Average Caffeine: 41.0
+Average Condition: 0
+Average Windy: 0
+
+
+41
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	48	0	0	False
+1900-01-01 06:00:00	47	0	0	False
+1900-01-01 07:00:00	47	0	0	False
+1900-01-01 08:00:00	49	0	0	False
+1900-01-01 09:00:00	51	0	0	False
+1900-01-01 10:00:00	51	0	0	False
+1900-01-01 11:00:00	50	0	0	False
+1900-01-01 12:00:00	49	0	0	False
+1900-01-01 13:00:00	49	0	0	False
+1900-01-01 14:00:00	50	0	0	False
+1900-01-01 15:00:00	50	0	0	False
+1900-01-01 16:00:00	49	0	0	False
+1900-01-01 17:00:00	49	0	0	False
+1900-01-01 18:00:00	48	0	0	False
+1900-01-01 19:00:00	48	0	0	False
+1900-01-01 20:00:00	47	0	0	False
+1900-01-01 21:00:00	46	41	0	False
+1900-01-01 22:00:00	46	0	0	False
+1900-01-01 23:00:00	46	0	0	False
+1900-01-01 00:00:00	45	0	0	False
+1900-01-01 01:00:00	45	0	0	False
+
+
+
+00:00 AM
+2022-11-01 00:00:00
+Average Temp: 39.0
+Average Caffeine: 152.0
+Average Condition: 0
+Average Windy: 0
+
+
+152
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	42	0	0	False
+1900-01-01 06:00:00	40	0	0	False
+1900-01-01 07:00:00	38	0	0	False
+1900-01-01 08:00:00	37	0	0	False
+1900-01-01 09:00:00	38	0	0	False
+1900-01-01 10:00:00	38	0	0	False
+1900-01-01 11:00:00	38	0	0	False
+1900-01-01 12:00:00	38	0	0	False
+1900-01-01 13:00:00	39	152	0	False
+1900-01-01 14:00:00	39	0	0	False
+1900-01-01 15:00:00	38	0	0	False
+1900-01-01 16:00:00	37	0	0	False
+1900-01-01 17:00:00	36	0	0	False
+1900-01-01 18:00:00	33	0	0	False
+1900-01-01 19:00:00	32	0	0	False
+1900-01-01 20:00:00	32	0	0	False
+1900-01-01 21:00:00	32	0	0	False
+1900-01-01 22:00:00	31	0	0	False
+1900-01-01 23:00:00	31	0	0	False
+1900-01-01 00:00:00	31	0	0	False
+1900-01-01 01:00:00	31	0	0	False
+
+
+
+00:00 AM
+2022-11-02 00:00:00
+Average Temp: nan
+Average Caffeine: nan
+Average Condition: 0
+Average Windy: 0
+
+
+0
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	34	0	0	False
+1900-01-01 06:00:00	34	0	0	False
+1900-01-01 07:00:00	34	0	0	False
+1900-01-01 08:00:00	34	0	0	False
+1900-01-01 09:00:00	35	0	0	False
+1900-01-01 10:00:00	35	0	0	False
+1900-01-01 11:00:00	36	0	0	False
+1900-01-01 12:00:00	37	0	0	False
+1900-01-01 13:00:00	40	0	0	False
+1900-01-01 14:00:00	40	0	0	False
+1900-01-01 15:00:00	41	0	0	False
+1900-01-01 16:00:00	41	0	0	False
+1900-01-01 17:00:00	38	0	0	False
+1900-01-01 18:00:00	36	0	0	False
+1900-01-01 19:00:00	33	0	0	False
+1900-01-01 20:00:00	34	0	0	False
+1900-01-01 21:00:00	33	0	0	False
+1900-01-01 22:00:00	32	0	0	False
+1900-01-01 23:00:00	33	0	0	False
+1900-01-01 00:00:00	33	0	0	False
+1900-01-01 01:00:00	33	0	0	False
+
+
+
+00:00 AM
+2022-11-03 00:00:00
+Average Temp: 38.0
+Average Caffeine: 152.0
+Average Condition: 0
+Average Windy: 0
+
+
+152
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	33	0	0	False
+1900-01-01 06:00:00	33	0	0	False
+1900-01-01 07:00:00	33	0	0	False
+1900-01-01 08:00:00	32	0	0	False
+1900-01-01 09:00:00	33	0	0	False
+1900-01-01 10:00:00	33	0	0	False
+1900-01-01 11:00:00	35	0	0	False
+1900-01-01 12:00:00	37	0	0	False
+1900-01-01 13:00:00	37	0	0	False
+1900-01-01 14:00:00	38	152	0	False
+1900-01-01 15:00:00	37	0	0	False
+1900-01-01 16:00:00	37	0	0	False
+1900-01-01 17:00:00	37	0	0	False
+1900-01-01 18:00:00	37	0	0	False
+1900-01-01 19:00:00	37	0	0	False
+1900-01-01 20:00:00	37	0	0	False
+1900-01-01 21:00:00	37	0	0	False
+1900-01-01 22:00:00	37	0	0	False
+1900-01-01 23:00:00	37	0	0	False
+1900-01-01 00:00:00	37	0	0	False
+1900-01-01 01:00:00	37	0	0	False
+
+
+
+00:00 AM
+2022-11-04 00:00:00
+Average Temp: 49.5
+Average Caffeine: 35.0
+Average Condition: 0
+Average Windy: 0
+
+
+71
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	32	0	0	False
+1900-01-01 06:00:00	33	0	0	False
+1900-01-01 07:00:00	33	0	0	False
+1900-01-01 08:00:00	34	0	0	False
+1900-01-01 09:00:00	34	0	0	False
+1900-01-01 10:00:00	35	0	0	False
+1900-01-01 11:00:00	36	0	0	False
+1900-01-01 12:00:00	37	0	0	False
+1900-01-01 13:00:00	38	0	0	False
+1900-01-01 14:00:00	49	0	0	False
+1900-01-01 15:00:00	50	0	0	True
+1900-01-01 16:00:00	49	0	0	True
+1900-01-01 17:00:00	49	0	0	False
+1900-01-01 18:00:00	49	0	0	False
+1900-01-01 19:00:00	49	50	0	False
+1900-01-01 20:00:00	49	0	0	False
+1900-01-01 21:00:00	50	20	0	False
+1900-01-01 22:00:00	50	0	0	True
+1900-01-01 23:00:00	51	0	0	True
+1900-01-01 00:00:00	51	0	0	False
+1900-01-01 01:00:00	51	0	0	False
+
+
+
+00:00 AM
+2022-11-05 00:00:00
+Average Temp: nan
+Average Caffeine: nan
+Average Condition: 0
+Average Windy: 0
+
+
+0
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	38	0	0	False
+1900-01-01 06:00:00	37	0	0	False
+1900-01-01 07:00:00	37	0	0	True
+1900-01-01 08:00:00	37	0	0	False
+1900-01-01 09:00:00	40	0	0	False
+1900-01-01 10:00:00	41	0	0	False
+1900-01-01 11:00:00	42	0	0	False
+1900-01-01 12:00:00	42	0	0	True
+1900-01-01 13:00:00	41	0	0	True
+1900-01-01 14:00:00	40	0	0	True
+1900-01-01 15:00:00	41	0	0	False
+1900-01-01 16:00:00	39	0	0	False
+1900-01-01 17:00:00	37	0	0	False
+1900-01-01 18:00:00	36	0	0	False
+1900-01-01 19:00:00	36	0	0	False
+1900-01-01 20:00:00	36	0	0	False
+1900-01-01 21:00:00	34	0	0	False
+1900-01-01 22:00:00	34	0	0	False
+1900-01-01 23:00:00	33	0	0	False
+1900-01-01 00:00:00	33	0	0	False
+1900-01-01 01:00:00	33	0	0	False
+
+
+
+00:00 AM
+2022-11-06 00:00:00
+Average Temp: nan
+Average Caffeine: nan
+Average Condition: 0
+Average Windy: 0
+
+
+0
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	32	0	0	False
+1900-01-01 06:00:00	32	0	0	False
+1900-01-01 07:00:00	32	0	0	False
+1900-01-01 08:00:00	32	0	0	False
+1900-01-01 09:00:00	33	0	0	True
+1900-01-01 10:00:00	35	0	0	True
+1900-01-01 11:00:00	37	0	0	False
+1900-01-01 12:00:00	38	0	0	False
+1900-01-01 13:00:00	41	0	0	False
+1900-01-01 14:00:00	43	0	0	False
+1900-01-01 15:00:00	43	0	0	False
+1900-01-01 16:00:00	41	0	0	False
+1900-01-01 17:00:00	39	0	0	False
+1900-01-01 18:00:00	36	0	0	False
+1900-01-01 19:00:00	37	0	0	False
+1900-01-01 20:00:00	38	0	0	False
+1900-01-01 21:00:00	38	0	0	False
+1900-01-01 22:00:00	39	0	0	False
+1900-01-01 23:00:00	39	0	0	False
+1900-01-01 00:00:00	39	0	0	False
+1900-01-01 01:00:00	39	0	0	False
+
+
+
+00:00 AM
+2022-11-07 00:00:00
+Average Temp: nan
+Average Caffeine: nan
+Average Condition: 0
+Average Windy: 0
+
+
+0
+Time		Temp	Caffeine	Condition	Windy
+21
+1900-01-01 05:00:00	32	0	0	False
+1900-01-01 06:00:00	33	0	0	False
+1900-01-01 07:00:00	34	0	0	False
+1900-01-01 08:00:00	34	0	0	False
+1900-01-01 09:00:00	34	0	0	False
+1900-01-01 10:00:00	35	0	0	False
+1900-01-01 11:00:00	38	0	0	False
+1900-01-01 12:00:00	41	0	0	False
+1900-01-01 13:00:00	41	0	0	False
+1900-01-01 14:00:00	39	0	0	False
+1900-01-01 15:00:00	40	0	0	False
+1900-01-01 16:00:00	38	0	0	False
+1900-01-01 17:00:00	36	0	0	False
+1900-01-01 18:00:00	35	0	0	False
+1900-01-01 19:00:00	34	0	0	False
+1900-01-01 20:00:00	34	0	0	False
+1900-01-01 21:00:00	33	0	0	False
+1900-01-01 22:00:00	33	0	0	False
+1900-01-01 23:00:00	33	0	0	False
+1900-01-01 00:00:00	32	0	0	False
+1900-01-01 01:00:00	32	0	0	False
+
+
+
